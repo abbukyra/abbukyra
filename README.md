@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning artificial intelligence and computational audition.
 - 💞️ I’m looking to collaborate on projects around the aforementioned interests!
 - 📫 How to reach me ...
-Email: abbukyra@gmail.com
+Email: abbukyra@gmail.com or via LinkedIn: https://www.linkedin.com/in/kyrabbu/
 
 <!---
 abbukyra/abbukyra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

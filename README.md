@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @abbukyra
-- 👀 I’m interested in data science, public health, and cognitive science
-- 🌱 I’m currently learning artificial intelligence and computational audition.
-- 💞️ I’m looking to collaborate on projects around the aforementioned interests!
+- 👀 I’m a Technical Product Manager working with application monitoring tools.
+- 🌱 I’m currently learning about the health insurtech industry.
 - 📫 How to reach me ...
-Email: abbukyra@gmail.com or via LinkedIn: https://www.linkedin.com/in/kyrabbu/
+Email: abbukyra@gmail.com 
+LinkedIn: https://www.linkedin.com/in/kyrabbu/
+Website: I am currently working on this!
 
 <!---
 abbukyra/abbukyra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

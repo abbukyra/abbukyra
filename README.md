@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about the health insurtech industry.
 - 📫 How to reach me ...
 <br> Email: abbukyra@gmail.com 
-<br> LinkedIn: www.linkedin.com/in/kyrabbu/
+<br> LinkedIn: www.linkedin.com/in/abbukyra/
 <br> Website: I am currently working on www.abbukyra.com!
 
 <!---

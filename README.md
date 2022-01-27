@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abbukyra
+- 👋 Hi, I’m Kyra!
 - 👀 I’m a Technical Product Manager working with application monitoring tools.
 - 🌱 I’m currently learning about the health insurtech industry.
 - 📫 How to reach me ...
